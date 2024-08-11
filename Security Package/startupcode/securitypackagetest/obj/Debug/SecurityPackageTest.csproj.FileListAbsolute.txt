@@ -1,0 +1,27 @@
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojAssemblyReference.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\obj\Debug\Security.174D7A11.Up2Date
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+D:\DSEC\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\obj\Debug\Security.174D7A11.Up2Date
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+D:\Datasec\Security Package\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
